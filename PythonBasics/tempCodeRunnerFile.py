@@ -1,0 +1,2 @@
+names.reverse()
+print(names)
