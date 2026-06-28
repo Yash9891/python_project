@@ -1,2 +1,2 @@
-names.reverse()
-print(names)
+for a in fruits:
+#     print(a)
