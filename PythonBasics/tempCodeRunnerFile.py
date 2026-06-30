@@ -1,2 +1,1 @@
-for a in fruits:
-#     print(a)
+square2(list1)
