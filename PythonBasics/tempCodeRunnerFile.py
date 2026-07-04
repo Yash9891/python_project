@@ -1,1 +1,1 @@
-print(p1.__salary) ##private attribute--will give error
+"a

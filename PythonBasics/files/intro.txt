@@ -1,0 +1,5 @@
+Hello, this is a simple text file.
+Python makes reading and writing files very easy.
+This file has multiple lines.
+Each line can be read separately.
+End of file.

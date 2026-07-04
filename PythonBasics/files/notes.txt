@@ -1,0 +1,5 @@
+Meeting Notes - Jan 2025
+Topic: Python Workshop
+Attendees: Yash, Prashant, Rohit
+Duration: 2 hours
+Status: Completed

@@ -1,0 +1,11 @@
+{
+    "app_name": "Student Manager",
+    "version": "1.0",
+    "debug": false,
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "students_db"
+    },
+    "allowed_grades": ["A+", "A", "B", "C", "F"]
+}
