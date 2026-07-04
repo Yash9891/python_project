@@ -1,1 +1,1 @@
-square2(list1)
+print(p1.__salary) ##private attribute--will give error
