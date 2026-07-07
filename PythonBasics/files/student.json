@@ -1,4 +1,5 @@
-{
+{"students":
+{"student1":{
     "name": "Yash",
     "age": 20,
     "course": "Python",
@@ -8,4 +9,16 @@
         "English": 79
     },
     "passed": true
+},
+"student2":{
+    "name": "Naman",
+    "age": 20,
+    "course": "Python",
+    "marks": {
+        "Python": 92,
+        "Maths": 88,
+        "English": 79
+    },
+    "passed": true
 }
+}}
