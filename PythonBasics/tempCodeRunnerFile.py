@@ -1,1 +1,1 @@
-    # print(f"{value['name']| value['marks']}")
+print(data)

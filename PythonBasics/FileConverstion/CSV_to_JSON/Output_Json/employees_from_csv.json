@@ -1,0 +1,5002 @@
+[
+    {
+        "employee_id": "EMP001",
+        "personal_info": {
+            "first_name": "Employee1",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 23,
+            "email": "employee1@company.com",
+            "phone": "9810000001"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 468000,
+            "experience": 1.8,
+            "joining_date": "2019-02-02"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110001
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 3.1,
+            "last_promotion_year": 2021,
+            "bonus": 26500
+        }
+    },
+    {
+        "employee_id": "EMP002",
+        "personal_info": {
+            "first_name": "Employee2",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 24,
+            "email": "employee2@company.com",
+            "phone": "9810000002"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 486000,
+            "experience": 2.6,
+            "joining_date": "2020-03-03"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110002
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 3.2,
+            "last_promotion_year": 2022,
+            "bonus": 28000
+        }
+    },
+    {
+        "employee_id": "EMP003",
+        "personal_info": {
+            "first_name": "Employee3",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 25,
+            "email": "employee3@company.com",
+            "phone": "9810000003"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 504000,
+            "experience": 3.4,
+            "joining_date": "2021-04-04"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110003
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 3.3,
+            "last_promotion_year": 2023,
+            "bonus": 29500
+        }
+    },
+    {
+        "employee_id": "EMP004",
+        "personal_info": {
+            "first_name": "Employee4",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 26,
+            "email": "employee4@company.com",
+            "phone": "9810000004"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 522000,
+            "experience": 4.2,
+            "joining_date": "2022-05-05"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110004
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.4,
+            "last_promotion_year": 2024,
+            "bonus": 31000
+        }
+    },
+    {
+        "employee_id": "EMP005",
+        "personal_info": {
+            "first_name": "Employee5",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 27,
+            "email": "employee5@company.com",
+            "phone": "9810000005"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 540000,
+            "experience": 5.0,
+            "joining_date": "2023-06-06"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110005
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 3.5,
+            "last_promotion_year": 2025,
+            "bonus": 32500
+        }
+    },
+    {
+        "employee_id": "EMP006",
+        "personal_info": {
+            "first_name": "Employee6",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 28,
+            "email": "employee6@company.com",
+            "phone": "9810000006"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 558000,
+            "experience": 5.8,
+            "joining_date": "2024-07-07"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110006
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 3.6,
+            "last_promotion_year": 2020,
+            "bonus": 34000
+        }
+    },
+    {
+        "employee_id": "EMP007",
+        "personal_info": {
+            "first_name": "Employee7",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 29,
+            "email": "employee7@company.com",
+            "phone": "9810000007"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 576000,
+            "experience": 6.6,
+            "joining_date": "2025-08-08"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110007
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 3.7,
+            "last_promotion_year": 2021,
+            "bonus": 35500
+        }
+    },
+    {
+        "employee_id": "EMP008",
+        "personal_info": {
+            "first_name": "Employee8",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 30,
+            "email": "employee8@company.com",
+            "phone": "9810000008"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 594000,
+            "experience": 7.4,
+            "joining_date": "2018-09-09"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110008
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 3.8,
+            "last_promotion_year": 2022,
+            "bonus": 37000
+        }
+    },
+    {
+        "employee_id": "EMP009",
+        "personal_info": {
+            "first_name": "Employee9",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 31,
+            "email": "employee9@company.com",
+            "phone": "9810000009"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 612000,
+            "experience": 8.2,
+            "joining_date": "2019-10-10"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110009
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 3.9,
+            "last_promotion_year": 2023,
+            "bonus": 38500
+        }
+    },
+    {
+        "employee_id": "EMP010",
+        "personal_info": {
+            "first_name": "Employee10",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 32,
+            "email": "employee10@company.com",
+            "phone": "9810000010"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 630000,
+            "experience": 9.0,
+            "joining_date": "2020-11-11"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110010
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 4.0,
+            "last_promotion_year": 2024,
+            "bonus": 40000
+        }
+    },
+    {
+        "employee_id": "EMP011",
+        "personal_info": {
+            "first_name": "Employee11",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 33,
+            "email": "employee11@company.com",
+            "phone": "9810000011"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 648000,
+            "experience": 9.8,
+            "joining_date": "2021-12-12"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110011
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 17
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 4.1,
+            "last_promotion_year": 2025,
+            "bonus": 41500
+        }
+    },
+    {
+        "employee_id": "EMP012",
+        "personal_info": {
+            "first_name": "Employee12",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 34,
+            "email": "employee12@company.com",
+            "phone": "9810000012"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 666000,
+            "experience": 10.6,
+            "joining_date": "2022-01-13"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110012
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "Completed",
+                "duration_months": 18
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 4.2,
+            "last_promotion_year": 2020,
+            "bonus": 43000
+        }
+    },
+    {
+        "employee_id": "EMP013",
+        "personal_info": {
+            "first_name": "Employee13",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 35,
+            "email": "employee13@company.com",
+            "phone": "9810000013"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 684000,
+            "experience": 11.4,
+            "joining_date": "2023-02-14"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110013
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 19
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 4.3,
+            "last_promotion_year": 2021,
+            "bonus": 44500
+        }
+    },
+    {
+        "employee_id": "EMP014",
+        "personal_info": {
+            "first_name": "Employee14",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 36,
+            "email": "employee14@company.com",
+            "phone": "9810000014"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 702000,
+            "experience": 12.2,
+            "joining_date": "2024-03-15"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110014
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 20
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 4.4,
+            "last_promotion_year": 2022,
+            "bonus": 46000
+        }
+    },
+    {
+        "employee_id": "EMP015",
+        "personal_info": {
+            "first_name": "Employee15",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 37,
+            "email": "employee15@company.com",
+            "phone": "9810000015"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 720000,
+            "experience": 1.0,
+            "joining_date": "2025-04-16"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110015
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "Completed",
+                "duration_months": 21
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 4.5,
+            "last_promotion_year": 2023,
+            "bonus": 47500
+        }
+    },
+    {
+        "employee_id": "EMP016",
+        "personal_info": {
+            "first_name": "Employee16",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 38,
+            "email": "employee16@company.com",
+            "phone": "9810000016"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 738000,
+            "experience": 1.8,
+            "joining_date": "2018-05-17"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110016
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 22
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 4.6,
+            "last_promotion_year": 2024,
+            "bonus": 49000
+        }
+    },
+    {
+        "employee_id": "EMP017",
+        "personal_info": {
+            "first_name": "Employee17",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 39,
+            "email": "employee17@company.com",
+            "phone": "9810000017"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 756000,
+            "experience": 2.6,
+            "joining_date": "2019-06-18"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110017
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 23
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 4.7,
+            "last_promotion_year": 2025,
+            "bonus": 50500
+        }
+    },
+    {
+        "employee_id": "EMP018",
+        "personal_info": {
+            "first_name": "Employee18",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 40,
+            "email": "employee18@company.com",
+            "phone": "9810000018"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 774000,
+            "experience": 3.4,
+            "joining_date": "2020-07-19"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110018
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "Completed",
+                "duration_months": 6
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 4.8,
+            "last_promotion_year": 2020,
+            "bonus": 52000
+        }
+    },
+    {
+        "employee_id": "EMP019",
+        "personal_info": {
+            "first_name": "Employee19",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 41,
+            "email": "employee19@company.com",
+            "phone": "9810000019"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 792000,
+            "experience": 4.2,
+            "joining_date": "2021-08-20"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110019
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 4.9,
+            "last_promotion_year": 2021,
+            "bonus": 53500
+        }
+    },
+    {
+        "employee_id": "EMP020",
+        "personal_info": {
+            "first_name": "Employee20",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 42,
+            "email": "employee20@company.com",
+            "phone": "9810000020"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 810000,
+            "experience": 5.0,
+            "joining_date": "2022-09-21"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110020
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 3.0,
+            "last_promotion_year": 2022,
+            "bonus": 55000
+        }
+    },
+    {
+        "employee_id": "EMP021",
+        "personal_info": {
+            "first_name": "Employee21",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 43,
+            "email": "employee21@company.com",
+            "phone": "9810000021"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 828000,
+            "experience": 5.8,
+            "joining_date": "2023-10-22"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110021
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 3.1,
+            "last_promotion_year": 2023,
+            "bonus": 56500
+        }
+    },
+    {
+        "employee_id": "EMP022",
+        "personal_info": {
+            "first_name": "Employee22",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 44,
+            "email": "employee22@company.com",
+            "phone": "9810000022"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 846000,
+            "experience": 6.6,
+            "joining_date": "2024-11-23"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110022
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 3.2,
+            "last_promotion_year": 2024,
+            "bonus": 58000
+        }
+    },
+    {
+        "employee_id": "EMP023",
+        "personal_info": {
+            "first_name": "Employee23",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 45,
+            "email": "employee23@company.com",
+            "phone": "9810000023"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 864000,
+            "experience": 7.4,
+            "joining_date": "2025-12-24"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110023
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 3.3,
+            "last_promotion_year": 2025,
+            "bonus": 59500
+        }
+    },
+    {
+        "employee_id": "EMP024",
+        "personal_info": {
+            "first_name": "Employee24",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 22,
+            "email": "employee24@company.com",
+            "phone": "9810000024"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 882000,
+            "experience": 8.2,
+            "joining_date": "2018-01-25"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110024
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 3.4,
+            "last_promotion_year": 2020,
+            "bonus": 61000
+        }
+    },
+    {
+        "employee_id": "EMP025",
+        "personal_info": {
+            "first_name": "Employee25",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 23,
+            "email": "employee25@company.com",
+            "phone": "9810000025"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 900000,
+            "experience": 9.0,
+            "joining_date": "2019-02-26"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110025
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 3.5,
+            "last_promotion_year": 2021,
+            "bonus": 62500
+        }
+    },
+    {
+        "employee_id": "EMP026",
+        "personal_info": {
+            "first_name": "Employee26",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 24,
+            "email": "employee26@company.com",
+            "phone": "9810000026"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 918000,
+            "experience": 9.8,
+            "joining_date": "2020-03-27"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110026
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 3.6,
+            "last_promotion_year": 2022,
+            "bonus": 64000
+        }
+    },
+    {
+        "employee_id": "EMP027",
+        "personal_info": {
+            "first_name": "Employee27",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 25,
+            "email": "employee27@company.com",
+            "phone": "9810000027"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 936000,
+            "experience": 10.6,
+            "joining_date": "2021-04-28"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110027
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 3.7,
+            "last_promotion_year": 2023,
+            "bonus": 65500
+        }
+    },
+    {
+        "employee_id": "EMP028",
+        "personal_info": {
+            "first_name": "Employee28",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 26,
+            "email": "employee28@company.com",
+            "phone": "9810000028"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 954000,
+            "experience": 11.4,
+            "joining_date": "2022-05-01"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110028
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.8,
+            "last_promotion_year": 2024,
+            "bonus": 67000
+        }
+    },
+    {
+        "employee_id": "EMP029",
+        "personal_info": {
+            "first_name": "Employee29",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 27,
+            "email": "employee29@company.com",
+            "phone": "9810000029"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 972000,
+            "experience": 12.2,
+            "joining_date": "2023-06-02"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110029
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 17
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 3.9,
+            "last_promotion_year": 2025,
+            "bonus": 68500
+        }
+    },
+    {
+        "employee_id": "EMP030",
+        "personal_info": {
+            "first_name": "Employee30",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 28,
+            "email": "employee30@company.com",
+            "phone": "9810000030"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 990000,
+            "experience": 1.0,
+            "joining_date": "2024-07-03"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110030
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "Completed",
+                "duration_months": 18
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 4.0,
+            "last_promotion_year": 2020,
+            "bonus": 70000
+        }
+    },
+    {
+        "employee_id": "EMP031",
+        "personal_info": {
+            "first_name": "Employee31",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 29,
+            "email": "employee31@company.com",
+            "phone": "9810000031"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1008000,
+            "experience": 1.8,
+            "joining_date": "2025-08-04"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110031
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 19
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 4.1,
+            "last_promotion_year": 2021,
+            "bonus": 71500
+        }
+    },
+    {
+        "employee_id": "EMP032",
+        "personal_info": {
+            "first_name": "Employee32",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 30,
+            "email": "employee32@company.com",
+            "phone": "9810000032"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1026000,
+            "experience": 2.6,
+            "joining_date": "2018-09-05"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110032
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 20
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 4.2,
+            "last_promotion_year": 2022,
+            "bonus": 73000
+        }
+    },
+    {
+        "employee_id": "EMP033",
+        "personal_info": {
+            "first_name": "Employee33",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 31,
+            "email": "employee33@company.com",
+            "phone": "9810000033"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1044000,
+            "experience": 3.4,
+            "joining_date": "2019-10-06"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110033
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "Completed",
+                "duration_months": 21
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 4.3,
+            "last_promotion_year": 2023,
+            "bonus": 74500
+        }
+    },
+    {
+        "employee_id": "EMP034",
+        "personal_info": {
+            "first_name": "Employee34",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 32,
+            "email": "employee34@company.com",
+            "phone": "9810000034"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1062000,
+            "experience": 4.2,
+            "joining_date": "2020-11-07"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110034
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 22
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 4.4,
+            "last_promotion_year": 2024,
+            "bonus": 76000
+        }
+    },
+    {
+        "employee_id": "EMP035",
+        "personal_info": {
+            "first_name": "Employee35",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 33,
+            "email": "employee35@company.com",
+            "phone": "9810000035"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1080000,
+            "experience": 5.0,
+            "joining_date": "2021-12-08"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110035
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 23
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 4.5,
+            "last_promotion_year": 2025,
+            "bonus": 77500
+        }
+    },
+    {
+        "employee_id": "EMP036",
+        "personal_info": {
+            "first_name": "Employee36",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 34,
+            "email": "employee36@company.com",
+            "phone": "9810000036"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1098000,
+            "experience": 5.8,
+            "joining_date": "2022-01-09"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110036
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "Completed",
+                "duration_months": 6
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 4.6,
+            "last_promotion_year": 2020,
+            "bonus": 79000
+        }
+    },
+    {
+        "employee_id": "EMP037",
+        "personal_info": {
+            "first_name": "Employee37",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 35,
+            "email": "employee37@company.com",
+            "phone": "9810000037"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1116000,
+            "experience": 6.6,
+            "joining_date": "2023-02-10"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110037
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 4.7,
+            "last_promotion_year": 2021,
+            "bonus": 80500
+        }
+    },
+    {
+        "employee_id": "EMP038",
+        "personal_info": {
+            "first_name": "Employee38",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 36,
+            "email": "employee38@company.com",
+            "phone": "9810000038"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1134000,
+            "experience": 7.4,
+            "joining_date": "2024-03-11"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110038
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 4.8,
+            "last_promotion_year": 2022,
+            "bonus": 82000
+        }
+    },
+    {
+        "employee_id": "EMP039",
+        "personal_info": {
+            "first_name": "Employee39",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 37,
+            "email": "employee39@company.com",
+            "phone": "9810000039"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1152000,
+            "experience": 8.2,
+            "joining_date": "2025-04-12"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110039
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 4.9,
+            "last_promotion_year": 2023,
+            "bonus": 83500
+        }
+    },
+    {
+        "employee_id": "EMP040",
+        "personal_info": {
+            "first_name": "Employee40",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 38,
+            "email": "employee40@company.com",
+            "phone": "9810000040"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1170000,
+            "experience": 9.0,
+            "joining_date": "2018-05-13"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110040
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.0,
+            "last_promotion_year": 2024,
+            "bonus": 85000
+        }
+    },
+    {
+        "employee_id": "EMP041",
+        "personal_info": {
+            "first_name": "Employee41",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 39,
+            "email": "employee41@company.com",
+            "phone": "9810000041"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1188000,
+            "experience": 9.8,
+            "joining_date": "2019-06-14"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110041
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 3.1,
+            "last_promotion_year": 2025,
+            "bonus": 86500
+        }
+    },
+    {
+        "employee_id": "EMP042",
+        "personal_info": {
+            "first_name": "Employee42",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 40,
+            "email": "employee42@company.com",
+            "phone": "9810000042"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1206000,
+            "experience": 10.6,
+            "joining_date": "2020-07-15"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110042
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 3.2,
+            "last_promotion_year": 2020,
+            "bonus": 88000
+        }
+    },
+    {
+        "employee_id": "EMP043",
+        "personal_info": {
+            "first_name": "Employee43",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 41,
+            "email": "employee43@company.com",
+            "phone": "9810000043"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1224000,
+            "experience": 11.4,
+            "joining_date": "2021-08-16"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110043
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 3.3,
+            "last_promotion_year": 2021,
+            "bonus": 89500
+        }
+    },
+    {
+        "employee_id": "EMP044",
+        "personal_info": {
+            "first_name": "Employee44",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 42,
+            "email": "employee44@company.com",
+            "phone": "9810000044"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1242000,
+            "experience": 12.2,
+            "joining_date": "2022-09-17"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110044
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 3.4,
+            "last_promotion_year": 2022,
+            "bonus": 91000
+        }
+    },
+    {
+        "employee_id": "EMP045",
+        "personal_info": {
+            "first_name": "Employee45",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 43,
+            "email": "employee45@company.com",
+            "phone": "9810000045"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1260000,
+            "experience": 1.0,
+            "joining_date": "2023-10-18"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110045
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 3.5,
+            "last_promotion_year": 2023,
+            "bonus": 92500
+        }
+    },
+    {
+        "employee_id": "EMP046",
+        "personal_info": {
+            "first_name": "Employee46",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 44,
+            "email": "employee46@company.com",
+            "phone": "9810000046"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1278000,
+            "experience": 1.8,
+            "joining_date": "2024-11-19"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110046
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 3.6,
+            "last_promotion_year": 2024,
+            "bonus": 94000
+        }
+    },
+    {
+        "employee_id": "EMP047",
+        "personal_info": {
+            "first_name": "Employee47",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 45,
+            "email": "employee47@company.com",
+            "phone": "9810000047"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1296000,
+            "experience": 2.6,
+            "joining_date": "2025-12-20"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110047
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 17
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 3.7,
+            "last_promotion_year": 2025,
+            "bonus": 95500
+        }
+    },
+    {
+        "employee_id": "EMP048",
+        "personal_info": {
+            "first_name": "Employee48",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 22,
+            "email": "employee48@company.com",
+            "phone": "9810000048"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1314000,
+            "experience": 3.4,
+            "joining_date": "2018-01-21"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110048
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "Completed",
+                "duration_months": 18
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 3.8,
+            "last_promotion_year": 2020,
+            "bonus": 97000
+        }
+    },
+    {
+        "employee_id": "EMP049",
+        "personal_info": {
+            "first_name": "Employee49",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 23,
+            "email": "employee49@company.com",
+            "phone": "9810000049"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1332000,
+            "experience": 4.2,
+            "joining_date": "2019-02-22"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110049
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 19
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 3.9,
+            "last_promotion_year": 2021,
+            "bonus": 98500
+        }
+    },
+    {
+        "employee_id": "EMP050",
+        "personal_info": {
+            "first_name": "Employee50",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 24,
+            "email": "employee50@company.com",
+            "phone": "9810000050"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1350000,
+            "experience": 5.0,
+            "joining_date": "2020-03-23"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110050
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 20
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 4.0,
+            "last_promotion_year": 2022,
+            "bonus": 100000
+        }
+    },
+    {
+        "employee_id": "EMP051",
+        "personal_info": {
+            "first_name": "Employee51",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 25,
+            "email": "employee51@company.com",
+            "phone": "9810000051"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1368000,
+            "experience": 5.8,
+            "joining_date": "2021-04-24"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110051
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "Completed",
+                "duration_months": 21
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 4.1,
+            "last_promotion_year": 2023,
+            "bonus": 101500
+        }
+    },
+    {
+        "employee_id": "EMP052",
+        "personal_info": {
+            "first_name": "Employee52",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 26,
+            "email": "employee52@company.com",
+            "phone": "9810000052"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1386000,
+            "experience": 6.6,
+            "joining_date": "2022-05-25"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110052
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 22
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 4.2,
+            "last_promotion_year": 2024,
+            "bonus": 103000
+        }
+    },
+    {
+        "employee_id": "EMP053",
+        "personal_info": {
+            "first_name": "Employee53",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 27,
+            "email": "employee53@company.com",
+            "phone": "9810000053"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1404000,
+            "experience": 7.4,
+            "joining_date": "2023-06-26"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110053
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 23
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 4.3,
+            "last_promotion_year": 2025,
+            "bonus": 104500
+        }
+    },
+    {
+        "employee_id": "EMP054",
+        "personal_info": {
+            "first_name": "Employee54",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 28,
+            "email": "employee54@company.com",
+            "phone": "9810000054"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1422000,
+            "experience": 8.2,
+            "joining_date": "2024-07-27"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110054
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "Completed",
+                "duration_months": 6
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 4.4,
+            "last_promotion_year": 2020,
+            "bonus": 106000
+        }
+    },
+    {
+        "employee_id": "EMP055",
+        "personal_info": {
+            "first_name": "Employee55",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 29,
+            "email": "employee55@company.com",
+            "phone": "9810000055"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1440000,
+            "experience": 9.0,
+            "joining_date": "2025-08-28"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110055
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 4.5,
+            "last_promotion_year": 2021,
+            "bonus": 107500
+        }
+    },
+    {
+        "employee_id": "EMP056",
+        "personal_info": {
+            "first_name": "Employee56",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 30,
+            "email": "employee56@company.com",
+            "phone": "9810000056"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1458000,
+            "experience": 9.8,
+            "joining_date": "2018-09-01"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110056
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 4.6,
+            "last_promotion_year": 2022,
+            "bonus": 109000
+        }
+    },
+    {
+        "employee_id": "EMP057",
+        "personal_info": {
+            "first_name": "Employee57",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 31,
+            "email": "employee57@company.com",
+            "phone": "9810000057"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1476000,
+            "experience": 10.6,
+            "joining_date": "2019-10-02"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110057
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 4.7,
+            "last_promotion_year": 2023,
+            "bonus": 110500
+        }
+    },
+    {
+        "employee_id": "EMP058",
+        "personal_info": {
+            "first_name": "Employee58",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 32,
+            "email": "employee58@company.com",
+            "phone": "9810000058"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1494000,
+            "experience": 11.4,
+            "joining_date": "2020-11-03"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110058
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 4.8,
+            "last_promotion_year": 2024,
+            "bonus": 112000
+        }
+    },
+    {
+        "employee_id": "EMP059",
+        "personal_info": {
+            "first_name": "Employee59",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 33,
+            "email": "employee59@company.com",
+            "phone": "9810000059"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1512000,
+            "experience": 12.2,
+            "joining_date": "2021-12-04"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110059
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 4.9,
+            "last_promotion_year": 2025,
+            "bonus": 113500
+        }
+    },
+    {
+        "employee_id": "EMP060",
+        "personal_info": {
+            "first_name": "Employee60",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 34,
+            "email": "employee60@company.com",
+            "phone": "9810000060"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1530000,
+            "experience": 1.0,
+            "joining_date": "2022-01-05"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110060
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 3.0,
+            "last_promotion_year": 2020,
+            "bonus": 115000
+        }
+    },
+    {
+        "employee_id": "EMP061",
+        "personal_info": {
+            "first_name": "Employee61",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 35,
+            "email": "employee61@company.com",
+            "phone": "9810000061"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1548000,
+            "experience": 1.8,
+            "joining_date": "2023-02-06"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110061
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 3.1,
+            "last_promotion_year": 2021,
+            "bonus": 116500
+        }
+    },
+    {
+        "employee_id": "EMP062",
+        "personal_info": {
+            "first_name": "Employee62",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 36,
+            "email": "employee62@company.com",
+            "phone": "9810000062"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1566000,
+            "experience": 2.6,
+            "joining_date": "2024-03-07"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110062
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 3.2,
+            "last_promotion_year": 2022,
+            "bonus": 118000
+        }
+    },
+    {
+        "employee_id": "EMP063",
+        "personal_info": {
+            "first_name": "Employee63",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 37,
+            "email": "employee63@company.com",
+            "phone": "9810000063"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1584000,
+            "experience": 3.4,
+            "joining_date": "2025-04-08"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110063
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 3.3,
+            "last_promotion_year": 2023,
+            "bonus": 119500
+        }
+    },
+    {
+        "employee_id": "EMP064",
+        "personal_info": {
+            "first_name": "Employee64",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 38,
+            "email": "employee64@company.com",
+            "phone": "9810000064"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1602000,
+            "experience": 4.2,
+            "joining_date": "2018-05-09"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110064
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.4,
+            "last_promotion_year": 2024,
+            "bonus": 121000
+        }
+    },
+    {
+        "employee_id": "EMP065",
+        "personal_info": {
+            "first_name": "Employee65",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 39,
+            "email": "employee65@company.com",
+            "phone": "9810000065"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1620000,
+            "experience": 5.0,
+            "joining_date": "2019-06-10"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110065
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 17
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 3.5,
+            "last_promotion_year": 2025,
+            "bonus": 122500
+        }
+    },
+    {
+        "employee_id": "EMP066",
+        "personal_info": {
+            "first_name": "Employee66",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 40,
+            "email": "employee66@company.com",
+            "phone": "9810000066"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1638000,
+            "experience": 5.8,
+            "joining_date": "2020-07-11"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110066
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "Completed",
+                "duration_months": 18
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 3.6,
+            "last_promotion_year": 2020,
+            "bonus": 124000
+        }
+    },
+    {
+        "employee_id": "EMP067",
+        "personal_info": {
+            "first_name": "Employee67",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 41,
+            "email": "employee67@company.com",
+            "phone": "9810000067"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1656000,
+            "experience": 6.6,
+            "joining_date": "2021-08-12"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110067
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 19
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 3.7,
+            "last_promotion_year": 2021,
+            "bonus": 125500
+        }
+    },
+    {
+        "employee_id": "EMP068",
+        "personal_info": {
+            "first_name": "Employee68",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 42,
+            "email": "employee68@company.com",
+            "phone": "9810000068"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1674000,
+            "experience": 7.4,
+            "joining_date": "2022-09-13"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110068
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 20
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 3.8,
+            "last_promotion_year": 2022,
+            "bonus": 127000
+        }
+    },
+    {
+        "employee_id": "EMP069",
+        "personal_info": {
+            "first_name": "Employee69",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 43,
+            "email": "employee69@company.com",
+            "phone": "9810000069"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1692000,
+            "experience": 8.2,
+            "joining_date": "2023-10-14"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110069
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "Completed",
+                "duration_months": 21
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 3.9,
+            "last_promotion_year": 2023,
+            "bonus": 128500
+        }
+    },
+    {
+        "employee_id": "EMP070",
+        "personal_info": {
+            "first_name": "Employee70",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 44,
+            "email": "employee70@company.com",
+            "phone": "9810000070"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1710000,
+            "experience": 9.0,
+            "joining_date": "2024-11-15"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110070
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 22
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 4.0,
+            "last_promotion_year": 2024,
+            "bonus": 130000
+        }
+    },
+    {
+        "employee_id": "EMP071",
+        "personal_info": {
+            "first_name": "Employee71",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 45,
+            "email": "employee71@company.com",
+            "phone": "9810000071"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1728000,
+            "experience": 9.8,
+            "joining_date": "2025-12-16"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110071
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 23
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 4.1,
+            "last_promotion_year": 2025,
+            "bonus": 131500
+        }
+    },
+    {
+        "employee_id": "EMP072",
+        "personal_info": {
+            "first_name": "Employee72",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 22,
+            "email": "employee72@company.com",
+            "phone": "9810000072"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1746000,
+            "experience": 10.6,
+            "joining_date": "2018-01-17"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110072
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "Completed",
+                "duration_months": 6
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 4.2,
+            "last_promotion_year": 2020,
+            "bonus": 133000
+        }
+    },
+    {
+        "employee_id": "EMP073",
+        "personal_info": {
+            "first_name": "Employee73",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 23,
+            "email": "employee73@company.com",
+            "phone": "9810000073"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1764000,
+            "experience": 11.4,
+            "joining_date": "2019-02-18"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110073
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 4.3,
+            "last_promotion_year": 2021,
+            "bonus": 134500
+        }
+    },
+    {
+        "employee_id": "EMP074",
+        "personal_info": {
+            "first_name": "Employee74",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 24,
+            "email": "employee74@company.com",
+            "phone": "9810000074"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1782000,
+            "experience": 12.2,
+            "joining_date": "2020-03-19"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110074
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 4.4,
+            "last_promotion_year": 2022,
+            "bonus": 136000
+        }
+    },
+    {
+        "employee_id": "EMP075",
+        "personal_info": {
+            "first_name": "Employee75",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 25,
+            "email": "employee75@company.com",
+            "phone": "9810000075"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1800000,
+            "experience": 1.0,
+            "joining_date": "2021-04-20"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110075
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 4.5,
+            "last_promotion_year": 2023,
+            "bonus": 137500
+        }
+    },
+    {
+        "employee_id": "EMP076",
+        "personal_info": {
+            "first_name": "Employee76",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 26,
+            "email": "employee76@company.com",
+            "phone": "9810000076"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1818000,
+            "experience": 1.8,
+            "joining_date": "2022-05-21"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110076
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 4.6,
+            "last_promotion_year": 2024,
+            "bonus": 139000
+        }
+    },
+    {
+        "employee_id": "EMP077",
+        "personal_info": {
+            "first_name": "Employee77",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 27,
+            "email": "employee77@company.com",
+            "phone": "9810000077"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1836000,
+            "experience": 2.6,
+            "joining_date": "2023-06-22"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110077
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 4.7,
+            "last_promotion_year": 2025,
+            "bonus": 140500
+        }
+    },
+    {
+        "employee_id": "EMP078",
+        "personal_info": {
+            "first_name": "Employee78",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 28,
+            "email": "employee78@company.com",
+            "phone": "9810000078"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1854000,
+            "experience": 3.4,
+            "joining_date": "2024-07-23"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110078
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 4.8,
+            "last_promotion_year": 2020,
+            "bonus": 142000
+        }
+    },
+    {
+        "employee_id": "EMP079",
+        "personal_info": {
+            "first_name": "Employee79",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 29,
+            "email": "employee79@company.com",
+            "phone": "9810000079"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1872000,
+            "experience": 4.2,
+            "joining_date": "2025-08-24"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110079
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 4.9,
+            "last_promotion_year": 2021,
+            "bonus": 143500
+        }
+    },
+    {
+        "employee_id": "EMP080",
+        "personal_info": {
+            "first_name": "Employee80",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 30,
+            "email": "employee80@company.com",
+            "phone": "9810000080"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 1890000,
+            "experience": 5.0,
+            "joining_date": "2018-09-25"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110080
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 3.0,
+            "last_promotion_year": 2022,
+            "bonus": 145000
+        }
+    },
+    {
+        "employee_id": "EMP081",
+        "personal_info": {
+            "first_name": "Employee81",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 31,
+            "email": "employee81@company.com",
+            "phone": "9810000081"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 1908000,
+            "experience": 5.8,
+            "joining_date": "2019-10-26"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110081
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 3.1,
+            "last_promotion_year": 2023,
+            "bonus": 146500
+        }
+    },
+    {
+        "employee_id": "EMP082",
+        "personal_info": {
+            "first_name": "Employee82",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 32,
+            "email": "employee82@company.com",
+            "phone": "9810000082"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 1926000,
+            "experience": 6.6,
+            "joining_date": "2020-11-27"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110082
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 3.2,
+            "last_promotion_year": 2024,
+            "bonus": 148000
+        }
+    },
+    {
+        "employee_id": "EMP083",
+        "personal_info": {
+            "first_name": "Employee83",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 33,
+            "email": "employee83@company.com",
+            "phone": "9810000083"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 1944000,
+            "experience": 7.4,
+            "joining_date": "2021-12-28"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110083
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 17
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 3.3,
+            "last_promotion_year": 2025,
+            "bonus": 149500
+        }
+    },
+    {
+        "employee_id": "EMP084",
+        "personal_info": {
+            "first_name": "Employee84",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 34,
+            "email": "employee84@company.com",
+            "phone": "9810000084"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 1962000,
+            "experience": 8.2,
+            "joining_date": "2022-01-01"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110084
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "Completed",
+                "duration_months": 18
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 3.4,
+            "last_promotion_year": 2020,
+            "bonus": 151000
+        }
+    },
+    {
+        "employee_id": "EMP085",
+        "personal_info": {
+            "first_name": "Employee85",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 35,
+            "email": "employee85@company.com",
+            "phone": "9810000085"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 1980000,
+            "experience": 9.0,
+            "joining_date": "2023-02-02"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110085
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 19
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 3.5,
+            "last_promotion_year": 2021,
+            "bonus": 152500
+        }
+    },
+    {
+        "employee_id": "EMP086",
+        "personal_info": {
+            "first_name": "Employee86",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 36,
+            "email": "employee86@company.com",
+            "phone": "9810000086"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 1998000,
+            "experience": 9.8,
+            "joining_date": "2024-03-03"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110086
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 20
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 3.6,
+            "last_promotion_year": 2022,
+            "bonus": 154000
+        }
+    },
+    {
+        "employee_id": "EMP087",
+        "personal_info": {
+            "first_name": "Employee87",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 37,
+            "email": "employee87@company.com",
+            "phone": "9810000087"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 2016000,
+            "experience": 10.6,
+            "joining_date": "2025-04-04"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110087
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "Completed",
+                "duration_months": 21
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 3.7,
+            "last_promotion_year": 2023,
+            "bonus": 155500
+        }
+    },
+    {
+        "employee_id": "EMP088",
+        "personal_info": {
+            "first_name": "Employee88",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 38,
+            "email": "employee88@company.com",
+            "phone": "9810000088"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 2034000,
+            "experience": 11.4,
+            "joining_date": "2018-05-05"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110088
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 22
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.8,
+            "last_promotion_year": 2024,
+            "bonus": 157000
+        }
+    },
+    {
+        "employee_id": "EMP089",
+        "personal_info": {
+            "first_name": "Employee89",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 39,
+            "email": "employee89@company.com",
+            "phone": "9810000089"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 2052000,
+            "experience": 12.2,
+            "joining_date": "2019-06-06"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110089
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 23
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            }
+        ],
+        "performance": {
+            "rating": 3.9,
+            "last_promotion_year": 2025,
+            "bonus": 158500
+        }
+    },
+    {
+        "employee_id": "EMP090",
+        "personal_info": {
+            "first_name": "Employee90",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 40,
+            "email": "employee90@company.com",
+            "phone": "9810000090"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 2070000,
+            "experience": 1.0,
+            "joining_date": "2020-07-07"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110090
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "Azure",
+            "Excel",
+            "Spark"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "Completed",
+                "duration_months": 6
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 9
+            }
+        ],
+        "performance": {
+            "rating": 4.0,
+            "last_promotion_year": 2020,
+            "bonus": 160000
+        }
+    },
+    {
+        "employee_id": "EMP091",
+        "personal_info": {
+            "first_name": "Employee91",
+            "last_name": "Verma",
+            "gender": "Male",
+            "age": 41,
+            "email": "employee91@company.com",
+            "phone": "9810000091"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 2088000,
+            "experience": 1.8,
+            "joining_date": "2021-08-08"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110091
+        },
+        "manager": {
+            "manager_id": "MGR002",
+            "manager_name": "Manager 2"
+        },
+        "skills": [
+            "Databricks",
+            "Power BI",
+            "AWS"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 7
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            }
+        ],
+        "performance": {
+            "rating": 4.1,
+            "last_promotion_year": 2021,
+            "bonus": 161500
+        }
+    },
+    {
+        "employee_id": "EMP092",
+        "personal_info": {
+            "first_name": "Employee92",
+            "last_name": "Singh",
+            "gender": "Female",
+            "age": 42,
+            "email": "employee92@company.com",
+            "phone": "9810000092"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 2106000,
+            "experience": 2.6,
+            "joining_date": "2022-09-09"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110092
+        },
+        "manager": {
+            "manager_id": "MGR003",
+            "manager_name": "Manager 3"
+        },
+        "skills": [
+            "Excel",
+            "Java",
+            "Docker"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 8
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            }
+        ],
+        "performance": {
+            "rating": 4.2,
+            "last_promotion_year": 2022,
+            "bonus": 163000
+        }
+    },
+    {
+        "employee_id": "EMP093",
+        "personal_info": {
+            "first_name": "Employee93",
+            "last_name": "Patel",
+            "gender": "Male",
+            "age": 43,
+            "email": "employee93@company.com",
+            "phone": "9810000093"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 2124000,
+            "experience": 3.4,
+            "joining_date": "2023-10-10"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110093
+        },
+        "manager": {
+            "manager_id": "MGR004",
+            "manager_name": "Manager 4"
+        },
+        "skills": [
+            "Power BI",
+            "Spark",
+            "Machine Learning"
+        ],
+        "projects": [
+            {
+                "project_name": "Cloud Migration",
+                "status": "Completed",
+                "duration_months": 9
+            },
+            {
+                "project_name": "Payroll System",
+                "status": "In Progress",
+                "duration_months": 12
+            }
+        ],
+        "performance": {
+            "rating": 4.3,
+            "last_promotion_year": 2023,
+            "bonus": 164500
+        }
+    },
+    {
+        "employee_id": "EMP094",
+        "personal_info": {
+            "first_name": "Employee94",
+            "last_name": "Gupta",
+            "gender": "Female",
+            "age": 44,
+            "email": "employee94@company.com",
+            "phone": "9810000094"
+        },
+        "job_details": {
+            "department": "Marketing",
+            "designation": "Business Analyst",
+            "salary": 2142000,
+            "experience": 4.2,
+            "joining_date": "2024-11-11"
+        },
+        "address": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "zipcode": 110094
+        },
+        "manager": {
+            "manager_id": "MGR005",
+            "manager_name": "Manager 5"
+        },
+        "skills": [
+            "Java",
+            "AWS",
+            "Python"
+        ],
+        "projects": [
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 10
+            },
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            }
+        ],
+        "performance": {
+            "rating": 4.4,
+            "last_promotion_year": 2024,
+            "bonus": 166000
+        }
+    },
+    {
+        "employee_id": "EMP095",
+        "personal_info": {
+            "first_name": "Employee95",
+            "last_name": "Sharma",
+            "gender": "Male",
+            "age": 45,
+            "email": "employee95@company.com",
+            "phone": "9810000095"
+        },
+        "job_details": {
+            "department": "Sales",
+            "designation": "HR Executive",
+            "salary": 2160000,
+            "experience": 5.0,
+            "joining_date": "2025-12-12"
+        },
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110095
+        },
+        "manager": {
+            "manager_id": "MGR006",
+            "manager_name": "Manager 6"
+        },
+        "skills": [
+            "Spark",
+            "Docker",
+            "SQL"
+        ],
+        "projects": [
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 11
+            },
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            }
+        ],
+        "performance": {
+            "rating": 4.5,
+            "last_promotion_year": 2025,
+            "bonus": 167500
+        }
+    },
+    {
+        "employee_id": "EMP096",
+        "personal_info": {
+            "first_name": "Employee96",
+            "last_name": "Verma",
+            "gender": "Female",
+            "age": 22,
+            "email": "employee96@company.com",
+            "phone": "9810000096"
+        },
+        "job_details": {
+            "department": "Operations",
+            "designation": "DevOps Engineer",
+            "salary": 2178000,
+            "experience": 5.8,
+            "joining_date": "2018-01-13"
+        },
+        "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "zipcode": 110096
+        },
+        "manager": {
+            "manager_id": "MGR007",
+            "manager_name": "Manager 7"
+        },
+        "skills": [
+            "AWS",
+            "Machine Learning",
+            "Azure"
+        ],
+        "projects": [
+            {
+                "project_name": "Payroll System",
+                "status": "Completed",
+                "duration_months": 12
+            },
+            {
+                "project_name": "Customer Analytics",
+                "status": "In Progress",
+                "duration_months": 3
+            }
+        ],
+        "performance": {
+            "rating": 4.6,
+            "last_promotion_year": 2020,
+            "bonus": 169000
+        }
+    },
+    {
+        "employee_id": "EMP097",
+        "personal_info": {
+            "first_name": "Employee97",
+            "last_name": "Singh",
+            "gender": "Male",
+            "age": 23,
+            "email": "employee97@company.com",
+            "phone": "9810000097"
+        },
+        "job_details": {
+            "department": "Support",
+            "designation": "Manager",
+            "salary": 2196000,
+            "experience": 6.6,
+            "joining_date": "2019-02-14"
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "zipcode": 110097
+        },
+        "manager": {
+            "manager_id": "MGR008",
+            "manager_name": "Manager 8"
+        },
+        "skills": [
+            "Docker",
+            "Python",
+            "Databricks"
+        ],
+        "projects": [
+            {
+                "project_name": "HR Portal",
+                "status": "In Progress",
+                "duration_months": 13
+            },
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 4
+            }
+        ],
+        "performance": {
+            "rating": 4.7,
+            "last_promotion_year": 2021,
+            "bonus": 170500
+        }
+    },
+    {
+        "employee_id": "EMP098",
+        "personal_info": {
+            "first_name": "Employee98",
+            "last_name": "Patel",
+            "gender": "Female",
+            "age": 24,
+            "email": "employee98@company.com",
+            "phone": "9810000098"
+        },
+        "job_details": {
+            "department": "IT",
+            "designation": "Software Engineer",
+            "salary": 2214000,
+            "experience": 7.4,
+            "joining_date": "2020-03-15"
+        },
+        "address": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "zipcode": 110098
+        },
+        "manager": {
+            "manager_id": "MGR009",
+            "manager_name": "Manager 9"
+        },
+        "skills": [
+            "Machine Learning",
+            "SQL",
+            "Excel"
+        ],
+        "projects": [
+            {
+                "project_name": "AI Chatbot",
+                "status": "In Progress",
+                "duration_months": 14
+            },
+            {
+                "project_name": "Cloud Migration",
+                "status": "In Progress",
+                "duration_months": 5
+            }
+        ],
+        "performance": {
+            "rating": 4.8,
+            "last_promotion_year": 2022,
+            "bonus": 172000
+        }
+    },
+    {
+        "employee_id": "EMP099",
+        "personal_info": {
+            "first_name": "Employee99",
+            "last_name": "Gupta",
+            "gender": "Male",
+            "age": 25,
+            "email": "employee99@company.com",
+            "phone": "9810000099"
+        },
+        "job_details": {
+            "department": "HR",
+            "designation": "Senior Software Engineer",
+            "salary": 2232000,
+            "experience": 8.2,
+            "joining_date": "2021-04-16"
+        },
+        "address": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "zipcode": 110099
+        },
+        "manager": {
+            "manager_id": "MGR010",
+            "manager_name": "Manager 10"
+        },
+        "skills": [
+            "Python",
+            "Azure",
+            "Power BI"
+        ],
+        "projects": [
+            {
+                "project_name": "Customer Analytics",
+                "status": "Completed",
+                "duration_months": 15
+            },
+            {
+                "project_name": "Sales Dashboard",
+                "status": "In Progress",
+                "duration_months": 6
+            }
+        ],
+        "performance": {
+            "rating": 4.9,
+            "last_promotion_year": 2023,
+            "bonus": 173500
+        }
+    },
+    {
+        "employee_id": "EMP100",
+        "personal_info": {
+            "first_name": "Employee100",
+            "last_name": "Sharma",
+            "gender": "Female",
+            "age": 26,
+            "email": "employee100@company.com",
+            "phone": "9810000100"
+        },
+        "job_details": {
+            "department": "Finance",
+            "designation": "Data Analyst",
+            "salary": 2250000,
+            "experience": 9.0,
+            "joining_date": "2022-05-17"
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": 110100
+        },
+        "manager": {
+            "manager_id": "MGR001",
+            "manager_name": "Manager 1"
+        },
+        "skills": [
+            "SQL",
+            "Databricks",
+            "Java"
+        ],
+        "projects": [
+            {
+                "project_name": "Inventory Management",
+                "status": "In Progress",
+                "duration_months": 16
+            },
+            {
+                "project_name": "E-Commerce Platform",
+                "status": "In Progress",
+                "duration_months": 7
+            }
+        ],
+        "performance": {
+            "rating": 3.0,
+            "last_promotion_year": 2024,
+            "bonus": 175000
+        }
+    }
+]

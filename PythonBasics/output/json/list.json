@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "usr_01",
+    "username": "coder_phase",
+    "active": true,
+    "login_count": 42
+  },
+  {
+    "user_id": "usr_02",
+    "username": "pixel_art",
+    "active": false,
+    "login_count": 12
+  },
+  {
+    "user_id": "usr_03",
+    "username": "data_wiz",
+    "active": true,
+    "login_count": 115
+  }
+]
